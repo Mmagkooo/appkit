@@ -100,7 +100,7 @@
     "@reown/appkit-wallet": "workspace:*",
     "@walletconnect/types": "2.16.1",
     "@walletconnect/utils": "2.16.1",
-    "valtio": "1.11.2"
+    "valtio": "1.13.2"
   },
   "optionalDependencies": {
     "borsh": "0.7.0",
